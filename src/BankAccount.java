@@ -2,8 +2,8 @@
 public class BankAccount
 {
 
-  private int _accountNumber; // The account number (not used in this example)
-  private double _balance; // The current balance of the account
+  private int _accountNumber; 
+  private double _balance; 
 
   public BankAccount()
   {
